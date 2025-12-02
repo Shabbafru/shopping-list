@@ -2,3 +2,4 @@ Semmerl
 Müsli
 Joghurt
 Kaffee
+Milch
